@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/DDDSession/.vs
+/DDDSession/DDDSession/bin/Debug/net7.0
+/DDDSession/DDDSession/obj
+/DDDSession/DDDSession.Domain/obj
+/DDDSession/DDDSession.Domain/bin/Debug/net7.0
+/DDDSession/DDDSession.Infrastucture/bin/Debug/net7.0
+/DDDSession/DDDSession.Infrastucture/obj
